@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\listup\bin\Debug\net5.0\listup.exe
+C:\Users\Admin\Documents\listup\bin\Debug\net5.0\listup.deps.json
+C:\Users\Admin\Documents\listup\bin\Debug\net5.0\listup.runtimeconfig.json
+C:\Users\Admin\Documents\listup\bin\Debug\net5.0\listup.runtimeconfig.dev.json
+C:\Users\Admin\Documents\listup\bin\Debug\net5.0\listup.dll
+C:\Users\Admin\Documents\listup\bin\Debug\net5.0\ref\listup.dll
+C:\Users\Admin\Documents\listup\bin\Debug\net5.0\listup.pdb
+C:\Users\Admin\Documents\listup\obj\Debug\net5.0\listup.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\listup\obj\Debug\net5.0\listup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\listup\obj\Debug\net5.0\listup.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\listup\obj\Debug\net5.0\listup.AssemblyInfo.cs
+C:\Users\Admin\Documents\listup\obj\Debug\net5.0\listup.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\listup\obj\Debug\net5.0\listup.dll
+C:\Users\Admin\Documents\listup\obj\Debug\net5.0\ref\listup.dll
+C:\Users\Admin\Documents\listup\obj\Debug\net5.0\listup.pdb
+C:\Users\Admin\Documents\listup\obj\Debug\net5.0\listup.genruntimeconfig.cache
